@@ -1,0 +1,2 @@
+# RMIT NEWS API
+### by s3395415 and s3486715
